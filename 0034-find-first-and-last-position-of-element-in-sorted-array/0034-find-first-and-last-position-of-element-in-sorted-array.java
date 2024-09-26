@@ -1,53 +1,24 @@
 class Solution {
-    public int [] searchRange(int [] nums, int target) {
-        if (nums == null || nums.length == 0) {
-            return new int [] {-1, -1};
-        }
-
-        int x = search(nums, 0, nums.length - 1, target);
-
-        if (x == -1) {
-            return new int [] {-1, -1};
-        }
-
-        int t = x;
-        int l = -1;
-
-        while (t != -1) {
-            l = t;
-            t = search(nums, 0, t - 1, target);
-        }
-
-        t = x;
-        int r = -1;
-
-        while (t != -1) {
-            r = t;
-            t = search(nums, t + 1, nums.length - 1, target);
-        }
-
-        return new int [] {l, r};
-    }
-
-    private int search(int [] nums, int l, int r, int target) {
-        if (l < 0 || r > nums.length - 1 || l > r || target < nums[l] || nums[r] < target) {
-            return -1;
-        }
-
-        while (l <= r) {
-            int m = l + (r - l) / 2;
-
-            if (nums[m] == target) {
-                return m;
+    public int[] searchRange(int[] nums, int target) {
+        int[] arr = {-1,-1};
+        int i=0;
+        while(i<nums.length){
+            if(nums[i]==target){
+                arr[0]=i;
+                arr[1]=i;
+                break;
             }
-
-            if (nums[m] < target) {
-                l = m + 1;
-            } else {
-                r = m - 1;
-            }
+            i++;
         }
-
-        return -1;
+        int j=nums.length-1;
+        while(j>i){
+            if(nums[j]==target) 
+            {
+                arr[1]=j;
+                break;
+            }
+            j--;
+        }
+        return arr;
     }
 }
