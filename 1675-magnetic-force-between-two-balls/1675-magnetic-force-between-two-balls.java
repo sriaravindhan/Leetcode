@@ -6,7 +6,7 @@ class Solution {
             int mid = (left+right)/2;
             if(canplaceBalls(pos,mid,m)) left = mid+1;
             else right = mid -1;
-            System.out.println(left +" "+right);
+            //System.out.println(left +" "+right);
         }
         return right;
     }
