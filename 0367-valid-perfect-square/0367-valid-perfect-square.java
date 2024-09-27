@@ -1,10 +1,15 @@
 class Solution {
-    public boolean isPerfectSquare(int num) {
-        if(num==1 || num== 4 ) return true;
-        if(num%10 == 2 || num%10 == 7 || num%10 == 3) return false;
-        for(int i=2;i<num/2;i++){
-            if(i*i==num) return true;
+    public boolean isPerfectSquare(int n) {
+        long start=0;
+        long end=1000000001;
+        while(start<=end){
+            long mid=start+(end-start)/2;
+            long temp=mid*mid;
+            if(temp==n)return true;
+            if(temp<n)start=mid+1;
+            else end=mid-1;
         }
         return false;
+        
     }
 }
