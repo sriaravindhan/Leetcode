@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/goodguy029/Leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/goodguy029/Leetcode1/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/goodguy029/Leetcode1/tree/master/1675-magnetic-force-between-two-balls) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/goodguy029/Leetcode1/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/goodguy029/Leetcode1/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/goodguy029/Leetcode1/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
@@ -56,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/goodguy029/Leetcode1/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/goodguy029/Leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/goodguy029/Leetcode1/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/goodguy029/Leetcode1/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/goodguy029/Leetcode1/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/goodguy029/Leetcode1/tree/master/0059-spiral-matrix-ii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/goodguy029/Leetcode1/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
