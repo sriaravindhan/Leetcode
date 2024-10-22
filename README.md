@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/goodguy029/Leetcode1/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/goodguy029/Leetcode1/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/goodguy029/Leetcode1/tree/master/0027-remove-element) |
+| [0160-intersection-of-two-linked-lists](https://github.com/goodguy029/Leetcode1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/goodguy029/Leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/goodguy029/Leetcode1/tree/master/0696-count-binary-substrings) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/goodguy029/Leetcode1/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/goodguy029/Leetcode1/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/goodguy029/Leetcode1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/goodguy029/Leetcode1/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/goodguy029/Leetcode1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/goodguy029/Leetcode1/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/goodguy029/Leetcode1/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
