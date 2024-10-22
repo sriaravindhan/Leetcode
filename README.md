@@ -97,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/goodguy029/Leetcode1/tree/master/0506-relative-ranks) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/goodguy029/Leetcode1/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/goodguy029/Leetcode1/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/goodguy029/Leetcode1/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
