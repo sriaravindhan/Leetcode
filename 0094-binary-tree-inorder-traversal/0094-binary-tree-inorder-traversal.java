@@ -21,9 +21,8 @@ class Solution {
     }
     public void inorder(TreeNode root, List<Integer> in){
         if(root==null) return;
-        TreeNode temp = root;
-        inorder(temp.left,in);
-        in.add(temp.val);
-        inorder(temp.right,in);
+        inorder(root.left,in);
+        in.add(root.val);
+        inorder(root.right,in);
     }
 }
