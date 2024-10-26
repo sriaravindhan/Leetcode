@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/goodguy029/Leetcode1/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/goodguy029/Leetcode1/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/goodguy029/Leetcode1/tree/master/0073-set-matrix-zeroes) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/goodguy029/Leetcode1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/goodguy029/Leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/goodguy029/Leetcode1/tree/master/0506-relative-ranks) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/goodguy029/Leetcode1/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/goodguy029/Leetcode1/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/goodguy029/Leetcode1/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/goodguy029/Leetcode1/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/goodguy029/Leetcode1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/goodguy029/Leetcode1/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/goodguy029/Leetcode1/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/goodguy029/Leetcode1/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/goodguy029/Leetcode1/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/goodguy029/Leetcode1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/goodguy029/Leetcode1/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
@@ -145,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/goodguy029/Leetcode1/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/goodguy029/Leetcode1/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/goodguy029/Leetcode1/tree/master/0104-maximum-depth-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/goodguy029/Leetcode1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/goodguy029/Leetcode1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
