@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/goodguy029/Leetcode1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/goodguy029/Leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/goodguy029/Leetcode1/tree/master/0506-relative-ranks) |
+| [1036-rotting-oranges](https://github.com/goodguy029/Leetcode1/tree/master/1036-rotting-oranges) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/goodguy029/Leetcode1/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/goodguy029/Leetcode1/tree/master/1675-magnetic-force-between-two-balls) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/goodguy029/Leetcode1/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/goodguy029/Leetcode1/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/goodguy029/Leetcode1/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/goodguy029/Leetcode1/tree/master/0073-set-matrix-zeroes) |
+| [1036-rotting-oranges](https://github.com/goodguy029/Leetcode1/tree/master/1036-rotting-oranges) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/goodguy029/Leetcode1/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/goodguy029/Leetcode1/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/goodguy029/Leetcode1/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/goodguy029/Leetcode1/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/goodguy029/Leetcode1/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1036-rotting-oranges](https://github.com/goodguy029/Leetcode1/tree/master/1036-rotting-oranges) |
 ## Divide and Conquer
 |  |
 | ------- |
