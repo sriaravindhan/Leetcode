@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/goodguy029/Leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/goodguy029/Leetcode1/tree/master/0506-relative-ranks) |
 | [1036-rotting-oranges](https://github.com/goodguy029/Leetcode1/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/goodguy029/Leetcode1/tree/master/1039-find-the-town-judge) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/goodguy029/Leetcode1/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/goodguy029/Leetcode1/tree/master/1675-magnetic-force-between-two-balls) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/goodguy029/Leetcode1/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/goodguy029/Leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/goodguy029/Leetcode1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/goodguy029/Leetcode1/tree/master/0349-intersection-of-two-arrays) |
+| [1039-find-the-town-judge](https://github.com/goodguy029/Leetcode1/tree/master/1039-find-the-town-judge) |
 ## String
 |  |
 | ------- |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/goodguy029/Leetcode1/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/goodguy029/Leetcode1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/goodguy029/Leetcode1/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
