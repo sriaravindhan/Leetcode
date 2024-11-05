@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/goodguy029/Leetcode1/tree/master/0506-relative-ranks) |
 | [1036-rotting-oranges](https://github.com/goodguy029/Leetcode1/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/goodguy029/Leetcode1/tree/master/1039-find-the-town-judge) |
+| [1073-number-of-enclaves](https://github.com/goodguy029/Leetcode1/tree/master/1073-number-of-enclaves) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/goodguy029/Leetcode1/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/goodguy029/Leetcode1/tree/master/1675-magnetic-force-between-two-balls) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/goodguy029/Leetcode1/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/goodguy029/Leetcode1/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/goodguy029/Leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [1036-rotting-oranges](https://github.com/goodguy029/Leetcode1/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/goodguy029/Leetcode1/tree/master/1073-number-of-enclaves) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/goodguy029/Leetcode1/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/goodguy029/Leetcode1/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/goodguy029/Leetcode1/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/goodguy029/Leetcode1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/goodguy029/Leetcode1/tree/master/0145-binary-tree-postorder-traversal) |
+| [1073-number-of-enclaves](https://github.com/goodguy029/Leetcode1/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/goodguy029/Leetcode1/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/goodguy029/Leetcode1/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1036-rotting-oranges](https://github.com/goodguy029/Leetcode1/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/goodguy029/Leetcode1/tree/master/1073-number-of-enclaves) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -180,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/goodguy029/Leetcode1/tree/master/1039-find-the-town-judge) |
+## Union Find
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/goodguy029/Leetcode1/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
