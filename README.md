@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/goodguy029/Leetcode1/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/goodguy029/Leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/goodguy029/Leetcode1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/goodguy029/Leetcode1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0349-intersection-of-two-arrays](https://github.com/goodguy029/Leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/goodguy029/Leetcode1/tree/master/0506-relative-ranks) |
 | [1036-rotting-oranges](https://github.com/goodguy029/Leetcode1/tree/master/1036-rotting-oranges) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/goodguy029/Leetcode1/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/goodguy029/Leetcode1/tree/master/0367-valid-perfect-square) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/goodguy029/Leetcode1/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Counting Sort
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/goodguy029/Leetcode1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/goodguy029/Leetcode1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/goodguy029/Leetcode1/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/goodguy029/Leetcode1/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Tree
 |  |
 | ------- |
