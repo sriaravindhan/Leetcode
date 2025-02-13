@@ -1,39 +1,30 @@
 class Solution {
-    public int evalRPN(String[] tokens) {
-        Stack<Integer> st = new Stack<>();
-        
-        for (String token : tokens) {
-            if (isNumeric(token)) {
-                st.push(Integer.parseInt(token));
-            } else {
-                int n2 = st.pop();
-                int n1 = st.pop();
-                switch (token) {
-                    case "+":
-                        st.push(n1 + n2);
-                        break;
-                    case "-":
-                        st.push(n1 - n2);
-                        break;
-                    case "*":
-                        st.push(n1 * n2);
-                        break;
-                    case "/":
-                        st.push(n1 / n2);
-                        break;
-                }
-            }
+    private int evaluateExpression(String token, int operand1, int operand2){
+        switch(token){
+            case "+":
+                return operand1+operand2;
+            case "-":
+                return operand1-operand2;
+            case "*":
+                return operand1*operand2;
+            case "/":
+                return operand1/operand2;
         }
-        return st.pop();
+        return -1;
     }
-
-    private boolean isNumeric(String s) {
-        try {
-            Integer.parseInt(s);
-            return true;
-        } catch (NumberFormatException e) {
-            return false;
+    
+    public int evalRPN(String[] tokens) {
+        Stack<Integer> stack = new Stack();
+        for(String token:tokens){
+            if(!"+/-*".contains(token)){
+                stack.push(Integer.valueOf((token)));
+                continue;
+            }
+            int operand2 = stack.pop();
+            int operand1 = stack.pop();
+            int currentResult = evaluateExpression(token, operand1, operand2);
+            stack.push(currentResult);
         }
+        return stack.peek();
     }
 }
-    
