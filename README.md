@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/goodguy029/Leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/goodguy029/Leetcode1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/goodguy029/Leetcode1/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/goodguy029/Leetcode1/tree/master/0200-number-of-islands) |
 | [0349-intersection-of-two-arrays](https://github.com/goodguy029/Leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/goodguy029/Leetcode1/tree/master/0506-relative-ranks) |
 | [1036-rotting-oranges](https://github.com/goodguy029/Leetcode1/tree/master/1036-rotting-oranges) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/goodguy029/Leetcode1/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/goodguy029/Leetcode1/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/goodguy029/Leetcode1/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/goodguy029/Leetcode1/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/goodguy029/Leetcode1/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/goodguy029/Leetcode1/tree/master/1073-number-of-enclaves) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/goodguy029/Leetcode1/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/goodguy029/Leetcode1/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/goodguy029/Leetcode1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/goodguy029/Leetcode1/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/goodguy029/Leetcode1/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/goodguy029/Leetcode1/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/goodguy029/Leetcode1/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/goodguy029/Leetcode1/tree/master/0744-network-delay-time) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/goodguy029/Leetcode1/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/goodguy029/Leetcode1/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/goodguy029/Leetcode1/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/goodguy029/Leetcode1/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/goodguy029/Leetcode1/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/goodguy029/Leetcode1/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/goodguy029/Leetcode1/tree/master/0744-network-delay-time) |
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/goodguy029/Leetcode1/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/goodguy029/Leetcode1/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/goodguy029/Leetcode1/tree/master/1073-number-of-enclaves) |
 ## Shortest Path
