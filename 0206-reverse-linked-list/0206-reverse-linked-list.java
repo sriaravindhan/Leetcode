@@ -16,7 +16,7 @@ class Solution {
             ListNode s = temp.next;
             temp.next=re;
             re=temp;
-            temp = s;
+            temp=s;
         }
         return re;
     }
