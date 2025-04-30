@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/goodguy029/Leetcode1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/goodguy029/Leetcode1/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/goodguy029/Leetcode1/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/goodguy029/Leetcode1/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/goodguy029/Leetcode1/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/goodguy029/Leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/goodguy029/Leetcode1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -80,11 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/goodguy029/Leetcode1/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/goodguy029/Leetcode1/tree/master/0055-jump-game) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/goodguy029/Leetcode1/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/goodguy029/Leetcode1/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/goodguy029/Leetcode1/tree/master/0055-jump-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/goodguy029/Leetcode1/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Hash Table
 |  |
