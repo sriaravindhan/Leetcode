@@ -94,11 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/goodguy029/Leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/goodguy029/Leetcode1/tree/master/0160-intersection-of-two-linked-lists) |
+| [0208-implement-trie-prefix-tree](https://github.com/goodguy029/Leetcode1/tree/master/0208-implement-trie-prefix-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/goodguy029/Leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [1039-find-the-town-judge](https://github.com/goodguy029/Leetcode1/tree/master/1039-find-the-town-judge) |
 ## String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/goodguy029/Leetcode1/tree/master/0208-implement-trie-prefix-tree) |
 | [0696-count-binary-substrings](https://github.com/goodguy029/Leetcode1/tree/master/0696-count-binary-substrings) |
 ## Math
 |  |
@@ -224,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/goodguy029/Leetcode1/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/goodguy029/Leetcode1/tree/master/0803-cheapest-flights-within-k-stops) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/goodguy029/Leetcode1/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/goodguy029/Leetcode1/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
